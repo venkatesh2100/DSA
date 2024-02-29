@@ -1,4 +1,3 @@
-# DSA
-🎯 Welcome to DSA Repository 🎯         This repository covers basic topics related to data structures and algorithms (DSA).
+# 🎯 Welcome to Intro_To_DSA Repository 🎯
 
-Hi
+This repository covers basic topics related to data structures and algorithms (DSA).
