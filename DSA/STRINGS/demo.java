@@ -5,6 +5,7 @@ public class demo {
     String name = "venky";
     int age = 19;
     System.out.println("Hi " + name+" and your'e "+age);
+    System.out.println("Bye");
   }
 
 }
